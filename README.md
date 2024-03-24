@@ -5,6 +5,8 @@
 
 ## Features
 
+- Contact Form with Web3Forms: Integrated a contact form using Web3Forms to allow users seamless communication for inquiries and feedback.
+
 - Responsive Design
 
 ## Deployment
